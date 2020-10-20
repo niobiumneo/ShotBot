@@ -1,2 +1,2 @@
 # ShotBot
-Code designed to be used on a robot that helped basketball players shoot and strategic locations on the field. You can read all about it in the Project Report for the ShotBot that was done by Mr. Balen Seeton, Mr. Abhimanyu Dev Sing, Mr. Ansh Sahny, and Me!
+Code in Robot C for a robot designed to help basketball players shoot at strategic locations on the field. You can read all about it in the Project Report for the ShotBot that was done by Mr. Balen Seeton, Mr. Abhimanyu Dev Singh, Mr. Ansh Sahny, and Me!
